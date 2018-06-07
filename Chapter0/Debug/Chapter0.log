@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Exercises_Section0.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  HelloWorld.cpp
+  HelloWorldWithNewLines.cpp
+  QuoteBackslash.cpp
+  ShortestProgram.cpp
+  Tabs.cpp
+  Generating Code...
+  Chapter0.vcxproj -> C:\Users\qnp684\source\repos\AcceleratedC++Exercises\Debug\Chapter0.exe
